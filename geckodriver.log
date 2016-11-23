@@ -1,0 +1,383 @@
+1479651600732	geckodriver	INFO	Listening on 127.0.0.1:50165
+1479651602768	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.0DsjGFuuq3Mi
+1479651602784	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479651602784	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50171
+1479651609157	geckodriver	INFO	Listening on 127.0.0.1:50179
+1479651611142	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.SBC0RKmcB6vM
+1479651611158	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479651611174	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50185
+1479651612085	Marionette	INFO	Listening on port 50185
+1479652041939	geckodriver	INFO	Listening on 127.0.0.1:50325
+1479652043939	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.9lz0Pvb7P5Eu
+1479652043955	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479652043955	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50331
+1479652044877	Marionette	INFO	Listening on port 50331
+1479652183023	geckodriver	INFO	Listening on 127.0.0.1:50387
+1479652185008	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.205vSD0MIeFn
+1479652185024	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479652185024	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50393
+1479652185862	Marionette	INFO	Listening on port 50393
+1479652595591	geckodriver	INFO	Listening on 127.0.0.1:50539
+1479652597622	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.fro4QSJ3cZJG
+1479652597638	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479652597654	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50545
+1479652598741	Marionette	INFO	Listening on port 50545
+1479652703052	geckodriver	INFO	Listening on 127.0.0.1:50596
+1479652705107	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.htwiiUVMpacx
+1479652705107	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479652705107	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50602
+1479652705906	Marionette	INFO	Listening on port 50602
+1479652749737	geckodriver	INFO	Listening on 127.0.0.1:50647
+1479652751763	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.0GsKOldq1v2N
+1479652751763	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479652751778	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50653
+1479652752673	Marionette	INFO	Listening on port 50653
+1479652776897	geckodriver	INFO	Listening on 127.0.0.1:50697
+1479652778934	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.9le48N5D7DSG
+1479652778950	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479652778950	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50703
+1479652779863	Marionette	INFO	Listening on port 50703
+1479652809357	geckodriver	INFO	Listening on 127.0.0.1:50744
+1479652811388	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.ABcjrtPuccOP
+1479652811393	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479652811395	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50750
+1479652812439	Marionette	INFO	Listening on port 50750
+1479652836361	geckodriver	INFO	Listening on 127.0.0.1:50792
+1479652838375	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.MvOH9WOEId8d
+1479652838375	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479652838390	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50798
+1479652839377	Marionette	INFO	Listening on port 50798
+1479652905018	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1479652907445	geckodriver	INFO	Listening on 127.0.0.1:50851
+1479652909481	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.XvDrVtACPPJe
+1479652909497	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479652909497	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50857
+1479652910350	Marionette	INFO	Listening on port 50857
+1479653165709	geckodriver	INFO	Listening on 127.0.0.1:50980
+1479653167736	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.njqc7E9NNrJx
+1479653167752	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479653167752	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50986
+1479653168652	Marionette	INFO	Listening on port 50986
+1479653250997	geckodriver	INFO	Listening on 127.0.0.1:51031
+1479653253030	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.s6bA7eEqZRGG
+1479653253045	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479653253045	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51037
+1479653253968	Marionette	INFO	Listening on port 51037
+1479653278683	geckodriver	INFO	Listening on 127.0.0.1:51072
+1479653280722	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.W1mxTY6tOlQ0
+1479653280738	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479653280738	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51079
+1479653281774	Marionette	INFO	Listening on port 51079
+1479653413491	geckodriver	INFO	Listening on 127.0.0.1:51140
+1479653415486	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.G4arhs5e7WR3
+1479653415502	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479653415502	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51146
+1479653416371	Marionette	INFO	Listening on port 51146
+1479653495259	geckodriver	INFO	Listening on 127.0.0.1:51195
+1479653497302	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.j5gWe5SwHdfR
+1479653497302	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479653497302	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51201
+1479653498381	Marionette	INFO	Listening on port 51201
+1479653740988	geckodriver	INFO	Listening on 127.0.0.1:51239
+1479653743004	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.Erc6flIsZEEt
+1479653743020	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479653743035	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51245
+1479653744027	Marionette	INFO	Listening on port 51245
+1479653880770	geckodriver	INFO	Listening on 127.0.0.1:51298
+1479653882821	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.zHuESJikccpA
+1479653882852	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479653882852	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51304
+1479653883856	Marionette	INFO	Listening on port 51304
+1479654690980	geckodriver	INFO	Listening on 127.0.0.1:51410
+1479654692996	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.OsS9niOMb14r
+1479654693012	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479654693012	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51416
+1479654693912	Marionette	INFO	Listening on port 51416
+1479654712621	geckodriver	INFO	Listening on 127.0.0.1:51453
+1479654714678	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.mCNv1LXqMbKN
+1479654714678	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479654714693	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51459
+1479654715625	Marionette	INFO	Listening on port 51459
+1479654732455	geckodriver	INFO	Listening on 127.0.0.1:51495
+1479654734487	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.RMOHK0gcvacG
+1479654734487	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479654734503	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51501
+1479654735424	Marionette	INFO	Listening on port 51501
+1479654747447	geckodriver	INFO	Listening on 127.0.0.1:51537
+1479654749489	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.pIZPQfE48Sf3
+1479654749504	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479654749504	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51543
+1479654750373	Marionette	INFO	Listening on port 51543
+1479654798728	geckodriver	INFO	Listening on 127.0.0.1:51603
+1479654800776	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.NwsppCHZ05lu
+1479654800792	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479654800792	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51609
+1479654801722	Marionette	INFO	Listening on port 51609
+1479654816868	geckodriver	INFO	Listening on 127.0.0.1:51652
+1479654818883	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.xkvD6VxkxZqu
+1479654818899	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479654818899	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51658
+1479654819975	Marionette	INFO	Listening on port 51658
+1479654894287	geckodriver	INFO	Listening on 127.0.0.1:51705
+1479654896322	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.eAMnAaLkhpZV
+1479654896338	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479654896338	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51711
+1479654897269	Marionette	INFO	Listening on port 51711
+console.error: 
+  Message: Error: Source map at http://spb-kzn.ru/css/bootstrap.css.map not found or invalid
+  Stack:
+    StyleSheetActor<._fetchSourceMap/</map<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:557:27
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+StyleSheetActor<._fetchSourceMap/</map<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:557:27
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+console.error: 
+  Protocol error (unknownError): Source map at http://spb-kzn.ru/css/bootstrap.css.map not found or invalid
+1479655029026	geckodriver	INFO	Listening on 127.0.0.1:51832
+1479655031038	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.yZEPfCla3v6A
+1479655031043	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479655031049	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51838
+1479655032069	Marionette	INFO	Listening on port 51838
+1479655070285	geckodriver	INFO	Listening on 127.0.0.1:51926
+1479655072306	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.oI7a8dQaYH0m
+1479655072306	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479655072306	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51932
+1479655073310	Marionette	INFO	Listening on port 51932
+1479655177339	geckodriver	INFO	Listening on 127.0.0.1:52053
+1479655179391	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.QPSVX9krFe0x
+1479655179391	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479655179407	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52059
+1479655180256	Marionette	INFO	Listening on port 52059
+1479655191974	geckodriver	INFO	Listening on 127.0.0.1:52098
+1479655194013	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.ZfeXTfD2qESx
+1479655194013	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479655194028	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52104
+1479655194928	Marionette	INFO	Listening on port 52104
+1479655217512	geckodriver	INFO	Listening on 127.0.0.1:52151
+1479655219535	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.JNEA1ohKxps5
+1479655219550	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479655219566	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52157
+1479655220402	Marionette	INFO	Listening on port 52157
+1479655248626	geckodriver	INFO	Listening on 127.0.0.1:52207
+1479655250634	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.F05ZOpGMGiTL
+1479655250650	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479655250650	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52213
+1479655251629	Marionette	INFO	Listening on port 52213
+1479655328342	geckodriver	INFO	Listening on 127.0.0.1:52281
+1479655330357	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.KMzn0S2vPkrO
+1479655330372	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479655330382	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52287
+1479655331300	Marionette	INFO	Listening on port 52287
+1479655345982	geckodriver	INFO	Listening on 127.0.0.1:52329
+1479655347980	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.2jsqOhSvVoTP
+1479655347996	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479655347996	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52335
+1479655348880	Marionette	INFO	Listening on port 52335
+1479656357205	geckodriver	INFO	Listening on 127.0.0.1:52618
+1479656359225	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.9Bzx941K9A7U
+1479656359230	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479656359232	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52624
+1479656360110	Marionette	INFO	Listening on port 52624
+1479656386720	geckodriver	INFO	Listening on 127.0.0.1:52696
+1479656388741	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.b07YL8e8rU3R
+1479656388741	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479656388741	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52702
+1479656389580	Marionette	INFO	Listening on port 52702
+1479656489262	geckodriver	INFO	Listening on 127.0.0.1:52772
+1479656491278	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.m8wLC4GwFUWU
+1479656491421	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479656491427	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52778
+1479656492307	Marionette	INFO	Listening on port 52778
+1479656514851	geckodriver	INFO	Listening on 127.0.0.1:52861
+1479656516852	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.3ITfpctnMV6S
+1479656516867	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479656516883	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52867
+1479656517824	Marionette	INFO	Listening on port 52867
+console.error: 
+  Message: Error: Source map at http://spb-kzn.ru/css/bootstrap.css.map not found or invalid
+  Stack:
+    StyleSheetActor<._fetchSourceMap/</map<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:557:27
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+StyleSheetActor<._fetchSourceMap/</map<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:557:27
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+console.error: 
+  Protocol error (unknownError): Source map at http://spb-kzn.ru/css/bootstrap.css.map not found or invalid
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+console.error: 
+  Message: Error: Source map at http://spb-kzn.ru/css/bootstrap.css.map not found or invalid
+  Stack:
+    StyleSheetActor<._fetchSourceMap/</map<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:557:27
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+StyleSheetActor<._fetchSourceMap/</map<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:557:27
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+console.error: 
+  Protocol error (unknownError): Source map at http://spb-kzn.ru/css/bootstrap.css.map not found or invalid
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1429:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2168:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:508:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype.onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:457:5
+Line: 1429, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1429:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2168:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:508:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype.onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:457:5
+Line: 1429, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1429: TypeError: this.transport is null
+1479657206006	geckodriver	INFO	Listening on 127.0.0.1:53218
+1479657208013	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.U5x3N1A5bqN3
+1479657208013	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479657208029	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53224
+1479657208859	Marionette	INFO	Listening on port 53224
+1479657232634	geckodriver	INFO	Listening on 127.0.0.1:53301
+1479657234669	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.k1mEp7U27tE3
+1479657234669	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479657234684	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53307
+1479657235588	Marionette	INFO	Listening on port 53307
+1479658410873	geckodriver	INFO	Listening on 127.0.0.1:53958
+1479658412893	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.pVqT2EIejxjT
+1479658412901	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479658412911	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53965
+1479658414041	Marionette	INFO	Listening on port 53965
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 77: TypeError: this._recipeManager is null
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 77: TypeError: this._recipeManager is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1429:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2168:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:508:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype.onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:457:5
+Line: 1429, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1429:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2168:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:508:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype.onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:457:5
+Line: 1429, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1429: TypeError: this.transport is null
+1479659046127	geckodriver	INFO	Listening on 127.0.0.1:54202
+1479659048148	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.ENBa93wxMY4f
+1479659048155	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479659048161	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54208
+1479659049187	Marionette	INFO	Listening on port 54208
+1479659192158	geckodriver	INFO	Listening on 127.0.0.1:54305
+1479659194189	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.5jNoN77G8Xm0
+1479659194189	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479659194205	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54311
+1479659195087	Marionette	INFO	Listening on port 54311
+1479659339691	geckodriver	INFO	Listening on 127.0.0.1:54396
+1479659341707	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.dJkk05IqFMqb
+1479659341738	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479659341738	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54402
+1479659342614	Marionette	INFO	Listening on port 54402
+1479659393436	geckodriver	INFO	Listening on 127.0.0.1:54502
+1479659395453	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.tkQuEcudLaa9
+1479659395458	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479659395464	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54508
+1479659396358	Marionette	INFO	Listening on port 54508
+1479659483843	geckodriver	INFO	Listening on 127.0.0.1:54641
+1479659485880	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.VzzrYBsSEdkO
+1479659485896	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479659485896	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54647
+1479659486816	Marionette	INFO	Listening on port 54647
+1479659521226	geckodriver	INFO	Listening on 127.0.0.1:54739
+1479659523232	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.hVGaeJEKoPyp
+1479659523248	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479659523248	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54745
+1479659524193	Marionette	INFO	Listening on port 54745
+1479659696320	geckodriver	INFO	Listening on 127.0.0.1:54924
+1479659698333	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.7gvOMcxkmKUI
+1479659698333	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479659698349	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54930
+1479659699357	Marionette	INFO	Listening on port 54930
+1479659726809	geckodriver	INFO	Listening on 127.0.0.1:55030
+1479659728853	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.CxSewZ66cg4W
+1479659728853	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479659728853	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55036
+1479659729755	Marionette	INFO	Listening on port 55036
+1479659767859	geckodriver	INFO	Listening on 127.0.0.1:55146
+1479659769891	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.JSvxTRBB0mCg
+1479659769907	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479659769907	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55152
+1479659770774	Marionette	INFO	Listening on port 55152
+1479660119098	geckodriver	INFO	Listening on 127.0.0.1:55363
+1479660121143	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.JmCOnZwijNfO
+1479660121159	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479660121159	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55369
+1479660122094	Marionette	INFO	Listening on port 55369
+1479660374349	geckodriver	INFO	Listening on 127.0.0.1:55689
+1479660376359	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.InE6GEa2uZfb
+1479660376375	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479660376375	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55695
+1479660377248	Marionette	INFO	Listening on port 55695
+1479660387920	geckodriver	INFO	Listening on 127.0.0.1:55725
+1479660389972	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.Tg46hTWXTXxl
+1479660389987	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479660390003	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55731
+1479660390865	Marionette	INFO	Listening on port 55731
+1479660931712	geckodriver	INFO	Listening on 127.0.0.1:56181
+1479660933756	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.zZavhZOCs0Tk
+1479660933756	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479660933772	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56187
+1479660934681	Marionette	INFO	Listening on port 56187
+1479661594369	geckodriver	INFO	Listening on 127.0.0.1:56652
+1479661596389	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.QzJFapjbCwc4
+1479661596389	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479661596405	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56658
+1479661597316	Marionette	INFO	Listening on port 56658
+1479661604954	geckodriver	INFO	Listening on 127.0.0.1:56698
+1479661606986	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.bKVmpkWIlRVS
+1479661607002	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479661607002	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56704
+1479661608018	Marionette	INFO	Listening on port 56704
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(32,24914) Code: 0x80070057 format 0
+1479661665197	geckodriver	INFO	Listening on 127.0.0.1:56941
+1479661666934	geckodriver	INFO	Listening on 127.0.0.1:56945
+1479661676337	geckodriver	INFO	Listening on 127.0.0.1:56947
+1479661678371	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.CPdiS242QiQ7
+1479661678387	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479661678387	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56953
+1479661679260	Marionette	INFO	Listening on port 56953
+1479661724670	geckodriver	INFO	Listening on 127.0.0.1:57071
+1479661726708	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.yuwJSk5jHwAl
+1479661726708	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479661726724	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57077
+1479661727545	Marionette	INFO	Listening on port 57077
+1479661737224	geckodriver	INFO	Listening on 127.0.0.1:57151
+1479661739238	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.byC06ZiI0PCj
+1479661739254	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479661739254	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57157
+1479661740185	Marionette	INFO	Listening on port 57157
+JavaScript warning: https://www.washingtonpost.com/pb/gr/c/default/r0IroMbdZw2W2q/wapo-production/8f8c39c9d8.js?_=65836, line 39: unreachable code after return statement
+1479661923524	geckodriver	INFO	Listening on 127.0.0.1:57594
+1479661925522	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.BtX0uWPJlURd
+1479661925528	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479661925534	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57600
+1479661926385	Marionette	INFO	Listening on port 57600
+1479662297261	geckodriver	INFO	Listening on 127.0.0.1:58019
+1479662299303	mozprofile::profile	INFO	Using profile path C:\Users\MAXIBOND\AppData\Local\Temp\rust_mozprofile.ivs2Sp1frBQB
+1479662299308	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1479662299314	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58025
+1479662300316	Marionette	INFO	Listening on port 58025
