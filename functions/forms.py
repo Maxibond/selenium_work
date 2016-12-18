@@ -22,4 +22,7 @@ class Forms:
         elem.send_keys(passwd)
         elem.submit()
         sleep(1)
-        return 'неверный пароль' not in self._driver.page_source
+
+    def valid_authorization(self):
+        self.authorization('ValidLogin', 'ValidPassword')
+        sleep(2)

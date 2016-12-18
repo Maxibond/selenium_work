@@ -10,8 +10,8 @@ def gotosite(manager):
 def run_tests(manager, test_list):
     for test in test_list:
         gotosite(manager)
-        # if test.need_authorization:
-        # authorization(manager)
+        if test.need_authorization:
+            manager['forms'].valid_authorization()
         test.run(manager)
 
 
