@@ -1,5 +1,6 @@
 from time import sleep
 from functions import Navigation
+import settings
 
 
 class Forms:
@@ -24,5 +25,5 @@ class Forms:
         sleep(1)
 
     def valid_authorization(self):
-        self.authorization('ValidLogin', 'ValidPassword')
+        self.authorization(settings.LOGIN, settings.PASSWORD)
         sleep(2)

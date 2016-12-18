@@ -1,6 +1,7 @@
 # coding=utf-8
 import functions
 import tests
+import settings
 
 
 def gotosite(manager):
@@ -16,9 +17,8 @@ def run_tests(manager, test_list):
 
 
 def start(driver):
-    url = 'https://www.reddit.com/'
     manager = {
-        'navigation': functions.Navigation(driver, url),
+        'navigation': functions.Navigation(driver, settings.MAIN_URL),
         'forms': functions.Forms(driver),
     }
     # run tests
